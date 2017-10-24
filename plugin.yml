@@ -1,0 +1,10 @@
+name: Warning
+main: me.DerekV.warning.warningMain
+version: 1.0
+description: >
+             plugin for the server warning
+commands:
+  admin:
+    description: warns a player
+  test:
+    description: gives you the technician kit!
